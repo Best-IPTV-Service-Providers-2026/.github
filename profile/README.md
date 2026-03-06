@@ -24,7 +24,7 @@ Each IPTV service listed in this repository is reviewed using the following stan
 > **Transparency Notice:**  
 > Affiliate relationships do not influence provider rankings, reviews, or evaluations. All services are listed for informational purposes only.
 ### 📡 BEST IPTV
-
+- [Xtreme HD IPTV (org)](https://xtremeiptvhd.org)
 - [Flash 4K IPTV](https://flash4kiptv.com/whmcs/aff.php?aff=42)
 - [XtremeHDz IPTV](https://xtremehdziptv.com/billing/aff.php?aff=6)
 - [OTTOcean IPTV](https://ottocean.com/store/aff.php?aff=1014)

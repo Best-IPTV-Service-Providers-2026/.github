@@ -1,12 +1,29 @@
 # Best IPTV Service Providers (2026)
 
-A professionally curated comparison of the **[best IPTV service providers in 2026](https://www.reviewstobuy.com/)**, focused on streaming performance, content availability, pricing transparency, and device compatibility. This repository is intended for users seeking reliable IPTV solutions for live TV, sports, movies, and on-demand entertainment.
+A professionally curated comparison of the **[best IPTV service providers in 2026](https://sites.google.com/view/best-iptv-2026/)**, focused on streaming performance, content availability, pricing transparency, and device compatibility. This repository is intended for users seeking reliable IPTV solutions for live TV, sports, movies, and on-demand entertainment.
 
 ## 📌 Overview
 
 Internet Protocol Television (IPTV) has emerged as a leading alternative to traditional cable and satellite television. Modern IPTV platforms deliver thousands of live TV channels, international programming, premium sports, and extensive video-on-demand libraries—often at significantly lower costs than conventional TV subscriptions.
 
 This repository presents a structured overview of **[top IPTV service providers](https://www.bestiptv26.com/)**, evaluated based on real-world usage and industry-relevant criteria. The goal is to provide clear, unbiased information to help users choose a stable and trustworthy IPTV service.
+
+## BEST IPTV Service Providers – Top Picks for 2026
+
+Below is the complete list of IPTV providers for easy comparison.
+
+- [Tivi Live IPTV](https://tivi-live.com/billing/aff.php?aff=54)
+- [Flash 4K IPTV](https://flash4kiptv.com/whmcs/aff.php?aff=42)
+- [4K IPTV Live](https://www.4kiptvlive.org?ref=52)
+- [Krooz TV](https://krooztv.net/billing/aff.php?aff=684)
+- [Voco TV](https://vocotv.com/billing/aff.php?aff=783)
+- [Double Click TV](https://doubleclicktv.com/billing/aff.php?aff=33)
+- [FreeGo TV](https://freegotv.com/billing/aff.php?aff=168)
+- [Terea TV](https://tereatv.com/billing/aff.php?aff=106)
+- [View TVY](https://viewtvy.com/billing/aff.php?aff=2)
+- [Sora IPTV](https://soraiptv.io/billing/aff.php?aff=25)
+- [Stream HD IPTV](https://streamhdiptv.com/billing/aff.php?aff=2)
+- [Krooz TV (Alternative)](https://krooztv.io/billing/aff.php?aff=9)
 
 ## 🔍 Evaluation Criteria
 

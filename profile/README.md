@@ -1,6 +1,6 @@
 # Best IPTV Service Providers (2026)
 
-A professionally curated comparison of the **[best IPTV service providers in 2026](https://sites.google.com/view/best-iptv-2026/)**, focused on streaming performance, content availability, pricing transparency, and device compatibility. This repository is intended for users seeking reliable IPTV solutions for live TV, sports, movies, and on-demand entertainment.
+A professionally curated comparison of the **[best IPTV service providers in 2026](https://sites.google.com/view/bestiptv26/)**, focused on streaming performance, content availability, pricing transparency, and device compatibility. This repository is intended for users seeking reliable IPTV solutions for live TV, sports, movies, and on-demand entertainment.
 
 ## 📌 Overview
 

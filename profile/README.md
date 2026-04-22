@@ -22,7 +22,7 @@ Below is the complete list of IPTV providers for easy comparison.
 
 - [Tivi Live IPTV](https://tivi-live.com/billing/aff.php?aff=54)
 - [Flash 4K IPTV](https://flash4kiptv.com/whmcs/aff.php?aff=42)
-- [4K IPTV Live](https://www.4kiptvlive.org?ref=52)
+- [IPTV.bz](https://www.zorba.network/aff.php?aff=2)
 - [Krooz TV](https://krooztv.net/billing/aff.php?aff=684)
 - [Voco TV](https://vocotv.com/billing/aff.php?aff=783)
 - [Double Click TV](https://doubleclicktv.com/billing/aff.php?aff=33)
